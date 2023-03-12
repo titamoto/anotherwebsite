@@ -5,5 +5,11 @@ body {
 
 h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
-   color: antiquewhite;
+    color: antiquewhite;
+
+}
+
+h2 {
+    color: antiquewhite;
+    font-size: large;
 }
